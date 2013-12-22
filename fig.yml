@@ -1,0 +1,6 @@
+web1:
+  build: docker/web
+  ports:
+    - 8000:8000
+  volumes:
+    - /vagrant/:/code
