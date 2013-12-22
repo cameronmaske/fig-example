@@ -1,4 +1,4 @@
-web1:
+web:
   build: docker/web
   ports:
     - 8000:8000
