@@ -1,6 +1,8 @@
 Installation
 ============
 
+**TLDR: [http://asciinema.org/a/6863](http://asciinema.org/a/6863)**
+
 Make sure .env is configured to alter your enviroment variables. I'd recommand using [autoenv](https://github.com/kennethreitz/autoenv) or [foreman](https://github.com/ddollar/foreman) or run
 
     DOCKER_URL=http://127.0.0.1:5555
